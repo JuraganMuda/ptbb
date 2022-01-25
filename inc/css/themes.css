@@ -1,0 +1,23 @@
+.topnav {
+    -webkit-text-size-adjust: 100%;
+    --red-heart:  url(data\:image\/svg\+xml\;base64\,PHN2ZyBpZD0iTGF5ZXJfMSIgZGF0YS1uYW1lPSJMYXllciAxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNjAuOSAxMzguMiI\+PGRlZnM\+PHN0eWxlPi5jbHMtMXtmaWxsOiNmMjY3NGU7fTwvc3R5bGU\+PC9kZWZzPjx0aXRsZT48L3RpdGxlPjxwYXRoIGNsYXNzPSJjbHMtMSIgZD0iTTQ2MS41NiwzMzMuMzJBNDIuNjksNDIuNjksMCwwLDAsNDM0Ljc4LDMyNGMtMjIuNzUsMC0zMywxNy0zNC4yMSwxOC42MS05LjYtMTIuNDYtMjUuNTctMjAuODEtNDEuNDYtMTgtMTMuMTUsMi4zMy0yMy40Niw5LjM5LTMwLjcxLDIxLTEwLjE5LDE2LjM0LTExLDMyLjA5LTIuNDYsNDYuODRBMTIyLjYxLDEyMi42MSwwLDAsMCwzNDQuMDksNDE2YzE0LDE0LjUyLDMwLjUyLDI4LjMxLDUyLjExLDQzLjM5LDEuMzgsMSw0LjM2LDIuODYsNC4zNiwyLjg2czQtMi42MSw0Ljc2LTMuMTljMTkuMTgtMTMuMzcsMzQuOS0yNi4yNSw0OC4wOC0zOS4zNyw3LjQ2LTcuNDIsMTUuOTMtMTYuNTUsMjIuMTItMjcuOTQsMi42NS00Ljg4LDUuNjctMTEuNDIsNS40OS0xOC45MkM0ODAuNjEsMzU2LjY5LDQ3NC4wNiwzNDMuNDEsNDYxLjU2LDMzMy4zMloiIHRyYW5zZm9ybT0idHJhbnNsYXRlKC0zMjAuMSAtMzI0LjAzKSIvPjwvc3ZnPg\=\=);
+    --gold-heart:  url(data\:image\/svg\+xml\;base64\,PHN2ZyBpZD0iTGF5ZXJfMSIgZGF0YS1uYW1lPSJMYXllciAxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNjAuOSAxMzguMiI\+PGRlZnM\+PHN0eWxlPi5jbHMtMXtmaWxsOiNmZmQ3MDA7fTwvc3R5bGU\+PC9kZWZzPjx0aXRsZT48L3RpdGxlPjxwYXRoIGNsYXNzPSJjbHMtMSIgZD0iTTQ2MS41NiwzMzMuMzJBNDIuNjksNDIuNjksMCwwLDAsNDM0Ljc4LDMyNGMtMjIuNzUsMC0zMywxNy0zNC4yMSwxOC42MS05LjYtMTIuNDYtMjUuNTctMjAuODEtNDEuNDYtMTgtMTMuMTUsMi4zMy0yMy40Niw5LjM5LTMwLjcxLDIxLTEwLjE5LDE2LjM0LTExLDMyLjA5LTIuNDYsNDYuODRBMTIyLjYxLDEyMi42MSwwLDAsMCwzNDQuMDksNDE2YzE0LDE0LjUyLDMwLjUyLDI4LjMxLDUyLjExLDQzLjM5LDEuMzgsMSw0LjM2LDIuODYsNC4zNiwyLjg2czQtMi42MSw0Ljc2LTMuMTljMTkuMTgtMTMuMzcsMzQuOS0yNi4yNSw0OC4wOC0zOS4zNyw3LjQ2LTcuNDIsMTUuOTMtMTYuNTUsMjIuMTItMjcuOTQsMi42NS00Ljg4LDUuNjctMTEuNDIsNS40OS0xOC45MkM0ODAuNjEsMzU2LjY5LDQ3NC4wNiwzNDMuNDEsNDYxLjU2LDMzMy4zMloiIHRyYW5zZm9ybT0idHJhbnNsYXRlKC0zMjAuMSAtMzI0LjAzKSIvPjwvc3ZnPg\=\=);
+    --wp-admin-theme-color: #007cba;
+    --wp-admin-theme-color-darker-10: #006ba1;
+    --wp-admin-theme-color-darker-20: #005a87;
+    --wp-admin-border-width-focus: 1.5px;
+    --primary-color: #1a69a6;
+    color: #777;
+    -webkit-font-smoothing: antialiased;
+    line-height: 1.6;
+    font-size: 100%;
+    font-family: "Barlow", sans-serif;
+    box-sizing: border-box;
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    z-index: 11;
+    position: relative;
+    min-height: 30px;
+    background-color: #1a69a6;
+}
